@@ -1,0 +1,15 @@
+ .amount-container {
+    flex-direction: column;
+}
+.form-floating {
+    align-items: center;
+    width: 680px;
+    
+}
+.checkradio {
+    width: 620px;
+}
+.boton {
+    
+    
+}
